@@ -6,5 +6,4 @@ vim.cmd("set autoindent")
 vim.cmd("set number")
 vim.cmd("set relativenumber")
 vim.g.mapleader = " "
-vim.opt.clipboard = 'unnamedplus'
-
+vim.opt.clipboard = "unnamedplus"
